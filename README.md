@@ -1,2 +1,3 @@
-# Reinforcement-Learning
-Reinforcement Learning Study
+# AI Study
+- Reinforcement Learning
+- Lotto Number Generator
